@@ -17,6 +17,12 @@ Content rules: `prompts/daily.md`. Read it before writing any post.
 
 The Nepal day's first post (08:15 NPT) is 8:30 PM Edmonton the same
 Edmonton day, so the upload always lands hours before anything is due.
+- `trig_01FLGW1VY8gxviEm21WALvaC` — Task A (cloud)
+- `trig_01M4HeFNs6kmcjCnxyr7ED51` — Task B (bound to the laptop)
+
+Task B's target = TODAY in Nepal when it runs (12:23 PM Edmonton is just past
+midnight in Nepal). Nov 16-17 were built and uploaded by hand on setup night.
+
 Two tasks for the same reason as FTM: a task that can push has no browser,
 and a device-bound task cannot push.
 
