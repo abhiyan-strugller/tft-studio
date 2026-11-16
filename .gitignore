@@ -1,0 +1,4 @@
+output/
+.media-repo/
+__pycache__/
+*.wav

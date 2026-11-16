@@ -1,0 +1,6 @@
+{
+  "_comment": "timeZone = the Post Planner ACCOUNT's zone (it reads POSTING TIME in this zone). Slots in input/ are Nepal time; build_day converts. mediaBase = GitHub Pages for tft-media, which Post Planner fetches at publish time.",
+  "timeZone": "America/Edmonton",
+  "owner": "abhiyan-strugller",
+  "mediaBase": "https://abhiyan-strugller.github.io/tft-media"
+}
