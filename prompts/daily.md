@@ -12,11 +12,16 @@ WhatsApp**, followers, then content that earns under Facebook monetization.
 | Slot | What |
 | --- | --- |
 | 08:15 | card |
+| 11:30 | reel |
 | 13:30 | card |
+| 18:30 | reel |
 | 19:45 | card |
-| 18:30 Tue / Thu / Sat only | reel (3 a week, never more) |
 
-Cards are the priority. Reels are 3 a week, 15–25 s, 4–6 slides.
+3 cards + 2 reels every day = 5 posts/day, under Post Planner's
+12-posts-per-24h per-profile cap. Reels are 16–25 s, 4–6 slides, last slide
+`{"end": true, ...}` with "WhatsApp +977 985-1007885". The two reels cover
+DIFFERENT tours/destinations — from each other and from the day's three
+cards — and never repeat a reel destination within 3 days. Vary the seed.
 
 ## The weekly mix (21 cards)
 
@@ -84,4 +89,4 @@ Links go in the first comment, never in the caption.
 `input/<YYYY-MM-DD>.json` (Nepal date). See any existing day for the shape.
 Template fields: see the docstring at the top of `scripts/render.py`.
 Reels: `input/reels/<date>-<slug>.json` + an entry in the day's `reels` list
-with its own caption/hashtags/first_comment and `"slot": "18:30"`.
+with its own caption/hashtags/first_comment — one `"slot": "11:30"`, one `"slot": "18:30"`.
