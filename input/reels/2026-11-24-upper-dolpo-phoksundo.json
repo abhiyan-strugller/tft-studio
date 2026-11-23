@@ -1,0 +1,35 @@
+{
+"slug": "2026-11-24-upper-dolpo-phoksundo",
+"seed": 58,
+"slides": [
+{
+"photo": "trek-dolpo",
+"kicker": "Upper Dolpo, Nepal",
+"text": "Phoksundo Lake, 3,611 m",
+"sub": "Shey-Phoksundo National Park.",
+"seconds": 4.5,
+"move": "in"
+},
+{
+"photo": "gallery-trek-dolpo-shey",
+"text": "No road goes here",
+"sub": "Fly to Juphal, then walk.",
+"seconds": 4,
+"move": "right"
+},
+{
+"photo": "gallery-trek-dolpo-saldang",
+"text": "Two nights by the lake",
+"sub": "Days 7–8: time to acclimatise.",
+"seconds": 4,
+"move": "out"
+},
+{
+"end": true,
+"photo": "trek-dolpo",
+"text": "Plan your Upper Dolpo trek",
+"sub": "WhatsApp +977 985-1007885",
+"seconds": 4.5
+}
+]
+}
